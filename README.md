@@ -2,6 +2,9 @@
 
 A tailormade league of legends ELO system for 5v5s in my group of friends
 
+## NOTE
+This is very low effort, could redo by using Trueskill and MCMC methods to figure out ELO values
+
 TODO:
 - Use JSON to store data
 - Discord bot
